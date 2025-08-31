@@ -64,7 +64,7 @@ const Footer = () => {
             {/* Social Links */}
             <div className="flex gap-3 pt-2">
               <a 
-                href="https://github.com/harshitsonker" 
+                href="https://github.com/HarshitSonker15" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="p-2 rounded-lg bg-secondary/50 hover:bg-primary/10 hover:text-primary transition-all duration-300 group"
