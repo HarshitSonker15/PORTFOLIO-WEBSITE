@@ -72,7 +72,7 @@ const Footer = () => {
                 <Github className="h-4 w-4 group-hover:scale-110 transition-transform duration-300" />
               </a>
               <a 
-                href="https://linkedin.com/in/harshitsonker" 
+                href="https://www.linkedin.com/in/harshit-sonker-b4a3a0258" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="p-2 rounded-lg bg-secondary/50 hover:bg-primary/10 hover:text-primary transition-all duration-300 group"
@@ -80,7 +80,7 @@ const Footer = () => {
                 <Linkedin className="h-4 w-4 group-hover:scale-110 transition-transform duration-300" />
               </a>
               <a 
-                href="https://leetcode.com/harshitsonker" 
+                href="https://leetcode.com/u/Harshit_Sonker/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="p-2 rounded-lg bg-secondary/50 hover:bg-primary/10 hover:text-primary transition-all duration-300 group"

@@ -65,7 +65,7 @@ const Hero = () => {
               <Github className="h-6 w-6 group-hover:scale-110 transition-transform duration-300" />
             </a>
             <a 
-              href="https://linkedin.com/in/harshitsonker" 
+              href="https://www.linkedin.com/in/harshit-sonker-b4a3a0258" 
               target="_blank" 
               rel="noopener noreferrer"
               className="p-3 rounded-full bg-secondary/50 hover:bg-secondary hover:shadow-glow transition-all duration-300 group"
@@ -73,7 +73,7 @@ const Hero = () => {
               <Linkedin className="h-6 w-6 group-hover:scale-110 transition-transform duration-300" />
             </a>
             <a 
-              href="https://leetcode.com/harshitsonker" 
+              href="https://leetcode.com/u/Harshit_Sonker/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="p-3 rounded-full bg-secondary/50 hover:bg-secondary hover:shadow-glow transition-all duration-300 group"

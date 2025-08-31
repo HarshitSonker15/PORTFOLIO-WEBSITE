@@ -36,14 +36,14 @@ const Contact = () => {
     {
       icon: Linkedin,
       label: "LinkedIn",
-      href: "https://linkedin.com/in/harshitsonker",
-      username: "harshitsonker"
+      href: "https://www.linkedin.com/in/harshit-sonker-b4a3a0258",
+      username: "harshit-sonker-b4a3a0258"
     },
     {
       icon: Code,
       label: "LeetCode",
-      href: "https://leetcode.com/harshitsonker",
-      username: "harshitsonker"
+      href: "https://leetcode.com/u/Harshit_Sonker/",
+      username: "Harshit_Sonker"
     }
   ];
 
